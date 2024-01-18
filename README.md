@@ -9,7 +9,7 @@ Welcome to my Travel App – your passport to seamless camping trip bookings wor
 
 ## About Me
 
-Hi there! 👋 I'm [Your Name], the developer behind this Travel App. Inspired by my passion for travel and the great outdoors, I crafted this app with the aim of making camping trip bookings a breeze.
+Hi there! 👋 I'm Malcolm, the developer behind this Travel App. Inspired by my passion for travel and the great outdoors, I crafted this app with the aim of making camping trip bookings a breeze.
 
 ## How I Built It
 
